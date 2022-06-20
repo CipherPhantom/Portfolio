@@ -58,7 +58,7 @@ span:hover {
 }
 
 .title {
-  font-family: 'Findalove', 'Sacramento', cursive;
+  font-family: 'Findalove', cursive;
   font-size: 7rem;
 }
 
@@ -138,7 +138,7 @@ span:hover {
   text-align: left;
 }
 .hobby-row {
-  margin: 100px
+  margin-top: 100px
 }
 .footer {
   background-color: #132257;
@@ -181,10 +181,10 @@ span:hover {
 @media (max-width: 960px) {
 
   .container-fluid {
-    padding: 4% 15%
+    padding: auto;
   }
   p {
-    font-size: 1.8rem;
+    font-size: 1.8rem
   }
 
 }
