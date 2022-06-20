@@ -180,7 +180,7 @@ span:hover {
 
 
 @media (max-width: 960px) {
-  table{
+  tr{
     margin-right: 100px;
   }
 
