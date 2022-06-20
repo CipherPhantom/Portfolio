@@ -11,7 +11,7 @@ h3, h4, h5, h6 {
 
 p {
   font-family: 'Axiforma', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   color: black;
 }
 
@@ -58,7 +58,7 @@ span:hover {
 }
 
 .title {
-  font-family: 'Findalove', sans-serif;
+  font-family: 'Findalove', 'Sacramento', cursive;
   font-size: 7rem;
 }
 
@@ -175,4 +175,16 @@ span:hover {
 }
 .copyright-tag {
   font-size: 20px;
+}
+
+
+@media (max-width: 960px) {
+
+  .container-fluid {
+    padding: 4% 15%
+  }
+  p {
+    font-size: 1.8rem;
+  }
+
 }
