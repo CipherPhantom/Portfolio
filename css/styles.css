@@ -180,9 +180,6 @@ span:hover {
 
 
 @media (max-width: 960px) {
-  tr{
-    margin-right: 100px;
-  }
 
   p {
     font-size: 1.8rem
