@@ -10,8 +10,9 @@ h3, h4, h5, h6 {
 }
 
 p {
-  font-family: 'Axiforma', sans-serif;
+  font-family: 'Cantora One', sans-serif;
   font-size: 1.7rem;
+  font-weight: 300;
   color: black;
 }
 
@@ -58,8 +59,8 @@ span:hover {
 }
 
 .title {
-  font-family: 'Findalove', cursive;
-  font-size: 7rem;
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 10rem;
 }
 
 .subtitle {
@@ -179,10 +180,10 @@ span:hover {
 
 
 @media (max-width: 960px) {
-
-  .container-fluid {
-    padding: auto;
+  .skills {
+    margin-left: 100px;
   }
+
   p {
     font-size: 1.8rem
   }
